@@ -58,7 +58,7 @@ A utilização de IA no Buddha Spa segue nossas políticas internas centralizada
 
 ## 🤝 Suporte e Contato
 
-* **Arquitetura & Governança de IA:** [adm-engenharia@buddhaspa.com.br](mailto:adm-engenharia@buddhaspa.com.br)
+* **Arquitetura & Governança de IA:** [adm.engenharia@buddhaspa.com.br](mailto:adm.engenharia@buddhaspa.com.br)
 * **Documentação Interna:** Consulte nossos manuais no SharePoint / Teams corporativo.
 
 ---
