@@ -28,6 +28,12 @@ O objetivo é entregar soluções escaláveis e seguras que eliminem gargalos op
 
 ---
 
-<div align="center">
-  <sub>Buddha Spa © 2026. Todos os direitos reservados.</sub>
-</div>
+## 🤝 Suporte e Contato
+
+* **Arquitetura & Governança de IA:** [adm.engenharia@buddhaspa.com.br](mailto:adm.engenharia@buddhaspa.com.br)
+* **Documentação Interna:** Consulte nossos manuais no SharePoint / Teams corporativo.
+
+---
+<p center>
+  <sub>Buddha Spa &copy; 2026. Todos os direitos reservados.</sub>
+</p>
